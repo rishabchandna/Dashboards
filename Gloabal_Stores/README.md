@@ -1,2 +1,2 @@
 
-![Dashboard](https://github.com/rishabchandna/Dashboards/blob/main/HR%20Analytics%20Dashboard/PROJECT_HR.png)
+![Dashboard](https://github.com/rishabchandna/Dashboards/blob/main/Gloabal_Stores/Final_work_globalStores.pdf)
